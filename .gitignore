@@ -1,4 +1,5 @@
 server/Debug/**
 client/Debug/**
-**/*.vcxproj* 
-server/.vs/**
+**/*.vcxproj.*
+.vs/**
+**/x64/*
